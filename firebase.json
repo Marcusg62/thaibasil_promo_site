@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "/",
+    "site": "firebasil-test",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

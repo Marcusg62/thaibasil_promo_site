@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "firebasil-test"
+  },
+  "targets": {
+    "firebasil-test": {
+      "hosting": {
+        "root": [
+          "firebasil-test"
+        ]
+      }
+    }
+  }
+}

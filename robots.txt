@@ -1,0 +1,13 @@
+# Group 1
+User-agent: Googlebot
+Allow: /
+Disallow: /contact-us/
+Disallow: /location/
+
+# Group 2
+User-agent: *
+Allow: /
+Disallow: /contact-us/
+Disallow: /location/
+
+Sitemap: https://thaibasil-denver.com/sitemap.xml
