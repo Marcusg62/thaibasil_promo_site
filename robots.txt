@@ -10,4 +10,4 @@ Allow: /
 Disallow: /contact-us/
 Disallow: /location/
 
-Sitemap: https://thaibasil-denver.com/sitemap.xml
+Sitemap: https://gingerhighlands.com/sitemap.xml
